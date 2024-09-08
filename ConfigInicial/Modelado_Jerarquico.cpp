@@ -2,7 +2,7 @@
 /*
 	Practica 4 Modelado jerarquico
 	Alcaraz Cárdenas Jorge Alberto
-	Fecha  entrega:
+	Fecha  entrega: 07 de Septiembre de 2024
 */
 
 #include<iostream>
